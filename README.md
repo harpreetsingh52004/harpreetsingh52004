@@ -1,10 +1,21 @@
+<!--
+  This README goes in a special repo: github.com/harpreetsingh52004/harpreetsingh52004
+  GitHub renders the README of that repo on your profile homepage.
+
+  To create it:
+    1. New repo named exactly "harpreetsingh52004"
+    2. Make it Public
+    3. Initialize with a README
+    4. Replace the README contents with this file
+-->
+
 ### Hi, I'm Harpreet 👋
 
-**Automation & Controls Engineer** · Toronto, ON
-Recent **Electromechanical Engineering Technology (Automation)** graduate from Seneca Polytechnic. I build PLC-driven systems and integrate them with HMIs, robots, digital twins, and IoT dashboards.
+**Automation · Controls · Field Service** · Toronto, ON
+Recent **Electromechanical Engineering Technology (Automation)** graduate from Seneca Polytechnic. I program, commission, troubleshoot, and maintain PLC-driven systems across factory automation, robotics, and IoT — with additional training in building automation (BACnet, HVAC, DDC). Comfortable on the bench, on the panel, and in the field.
 
 🌐 **Portfolio:** [harpreetsingh.cloud](https://harpreetsingh.cloud)
-📫 **Email:** [harpreet@harpreetsingh.cloud](mailto:harpreet@harpreetsingh.cloud)
+📫 **Email:** [harpreetsingh52004@gmail.com](mailto:harpreetsingh52004@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/harpreetsingh52004](https://www.linkedin.com/in/harpreetsingh52004)
 
 ---
@@ -26,7 +37,7 @@ Analysis      ▸  MATLAB · PID tuning (FOPDT, Cohen-Coon) · Process control
 #### 🚀 Currently
 
 - 🎓 Wrapped up my capstone — an automated **filling, capping & sorting system** (CLICK PLC + Node-RED + MQTT)
-- 🔍 Looking for full-time **Automation / Controls / Manufacturing Engineer** roles across Canada
+- 🔍 Open to roles in **PLC programming, automation tech, controls engineering, field service, and maintenance** — also open to building-automation work. Comfortable with shift work, on-call rotations, and physical site work.
 - 🪪 Working toward my **OACETT C.E.T.** designation
 
 ---
@@ -48,4 +59,4 @@ Analysis      ▸  MATLAB · PID tuning (FOPDT, Cohen-Coon) · Process control
 
 ---
 
-<sub>🎯 Open to opportunities · ✉️ <a href="mailto:harpreet@harpreetsingh.cloud">harpreet@harpreetsingh.cloud</a> · ☎️ 289-623-5733</sub>
+<sub>🎯 Open to opportunities · ✉️ <a href="mailto:harpreetsingh52004@gmail.com">harpreetsingh52004@gmail.com</a></sub>
